@@ -1,5 +1,8 @@
 # Brain Tumor MRI Viskores 6 Single-Filter ViT Project
 
+![Brain Tumor 6 Single-Filter Viskores ViT Pipeline](brain_tumor_6_single_filters_pipeline_readme.png)
+
+
 ![Brain Tumor 6 Single-Filter Viskores ViT Pipeline](figures/brain_tumor_6_single_filters_pipeline.svg)
 
 

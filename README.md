@@ -2,10 +2,6 @@
 
 ![Brain Tumor 6 Single-Filter Viskores ViT Pipeline](brain_tumor_6_single_filters_pipeline_readme.png)
 
-
-![Brain Tumor 6 Single-Filter Viskores ViT Pipeline](figures/brain_tumor_6_single_filters_pipeline.svg)
-
-
 This repository contains the final brain tumor MRI experiment using a Viskores-enhanced Vision Transformer workflow.
 
 ## Experiment Goal

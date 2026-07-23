@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.9361458333333333,
+  "accuracy_percent": 93.61458333333333,
+  "weighted_f1": 0.9344805190578689,
+  "weighted_f1_percent": 93.44805190578688,
+  "macro_auc": 0.9716241464120371,
+  "classes": [
+    "glioma",
+    "meningioma",
+    "notumor",
+    "pituitary"
+  ]
+}
